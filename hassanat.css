@@ -1,0 +1,33 @@
+body{
+    background-image: url("social-web-concept.jpg");
+    background-size:300%;
+    
+}
+div{
+    display:list-item;
+
+   
+}
+.love{
+    float:left;
+}
+.u{
+    border-radius: 50px;
+   background-image: url("pngtree-abstract-crumpled-paper-white-texture-background-image_1484430.jpg");
+   background-size:contain;
+width: 1000px;
+outline-style:dotted;
+    outline-color: blue;
+}
+img{
+    border-radius: 50px;
+    
+    image-resolution:initial;
+    text-shadow: 50px;
+    text-transform: initial;
+    box-shadow:1rem 1rem 2.5rem black, -0.6rem -0.6rem 1.6rem #fff; ;
+}
+
+h4,u{
+    color:white;
+}
